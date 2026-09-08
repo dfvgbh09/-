@@ -25,7 +25,7 @@ Markdown
 - interest: ai
 - ctrl+O, ctrl+X:저장, 나가기
 - 'cat ~/linux_practice/data/profile.txt':결과확인
-
+---
 ## 4. 파일을 복사하고 이동하고 이름 바꾸기
 - 'cp profile.txt linux_practice/backup/':복사
 - 'mv profile.txt linux_practice/scripts/':이동
