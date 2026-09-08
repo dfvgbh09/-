@@ -5,10 +5,10 @@ Markdown
 ## 1. 현재 위치를 확인하고 폴더를 이동해보기
 - 'pwd':현재 작업 중인 폴더 경로 확인
 - 결과:'/home/user'
-<br />
+<br>
 - 'ls':현재 작업 중인 폴더 목록 확인
 - 결과:'suap 공개 다운로드 문서 바탕화면 비디오 사진 서식 음악'
-<br />
+<br>
 - 'cd':다른 폴더로 이동
 - 실행:'user@user-Samsung-DeskTop-System:~$ cd 다운로드'
 - 결과:'user@user-Samsung-DeskTop-System:~/다운로드$'
