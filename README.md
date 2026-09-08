@@ -33,7 +33,7 @@ Markdown
 ---
 ## 5. 파일을 찾고 내용 검색하기
 - 'find linux_practice -name "*.txt"':.txt 파일 찾기
-- 'find linux_practice -name "*student*"':이름에 student가 드어간 파일 찾기
+- 'find linux_practice -name "student"':이름에 student가 들어간 파일 찾기
 - 'grep "김서준" student.txt':파일 안에 특정 내용 찾기
 ---
 ## 6. 필요 없는 파일과 폴더 삭제하기
