@@ -8,8 +8,7 @@ Markdown
 <br />
 - 'ls':현재 작업 중인 폴더 목록 확인
 - 결과:'suap 공개 다운로드 문서 바탕화면 비디오 사진 서식 음악'
-
-  
+<br />
 - 'cd':다른 폴더로 이동
 - 실행:'user@user-Samsung-DeskTop-System:~$ cd 다운로드'
 - 결과:'user@user-Samsung-DeskTop-System:~/다운로드$'
